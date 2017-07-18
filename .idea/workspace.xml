@@ -2,508 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a44058c-6ad2-4ffe-805b-ea3e3218d74d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/joubn_blog.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/links.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/skills.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/social.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/activity-lifecycle.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/build-cm-yourself.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/template.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/threadmanage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/travis-ci-for-gitbook.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/comments.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/sidebar-categories-nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/sidebar-popular-repo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/sidebar-post-nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/sidebar-qrcode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/sidebar-search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/sns-share.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/wiki.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011-05-25-export-data-from-excel-to-word-by-vba.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011-05-25-gather-multi-excel-to-one-by-vba.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011-11-04-basis.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011-11-06-basis.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011-11-20-permutation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-02-12-hge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-02-24-gecko-embed.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-03-01-mozilla-file-tree.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-03-15-gecko-plugin.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-03-22-vba-knowledge.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-04-05-learn-python-practise.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-04-08-learn-python-practise.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-06-17-windows-skills.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-06-19-gecko-use-profile.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-04-18-windows-ui-notes.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-05-19-when-your-exe-name-contains-install-or-setup.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-06-22-multi-included-source-file.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-10-26-namespace-with-a-static-variable.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-11-23-HFDP-Notes1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-12-03-HFDP-Notes2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013-12-22-HFDP-Notes3.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-02-19-excel-incommonuse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-03-07-pits-in-windows.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-05-10-numbersign.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-05-24-virtualfunctions.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-05-31-HFDP-Note4.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-06-01-comsketch.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-06-29-acl-chapter2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-07-13-cppinit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-07-13-dllsearch.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-07-19-fiddlerwithwinhttp.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-07-20-fiddlercontextmenu.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-08-01-deadlock.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-09-13-make-exe-small.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-10-09-path-after-rename.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-10-12-csdnresautocomment.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-21-vim-python-autocomplete.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-31-simplify-apk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-01-19-printf.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-03-31-singleton-process.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-04-03-java-date.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-04-06-dp-sp-px.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-06-android-studio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-10-emacs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-15-java-compare.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-05-27-svn-exception.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-14-win-discuz.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-23-vim-taglist-smali.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-07-08-fiddler-filter-by-device.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-10-25-mac.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-10-31-pits-in-vimscript.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-12-02-excel-sift.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-12-05-diff-between-gfm-and-redcarpet.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-12-15-java-object-finalize.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-12-19-vim-markdown-toc.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-01-12-use-ubuntu-notes.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-01-14-android-system-cache.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-01-16-build-zeal-for-mac-osx.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-02-04-switch-to-kramdown-from-redcarpet.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-02-10-am-start-user-parameter.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-04-07-how-to-use-github-effective.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-04-18-develop-nodejs-with-atom.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-04-20-determine-if-my-activities-foreground.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-05-21-enable-https-for-github-pages.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-06-28-vim-kramdown-tab.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-07-11-remove-https.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-08-03-add-outline-for-markdown-in-vim.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-08-30-java-guide-to-cpp-programmers.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-09-20-java-output-ab.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-10-22-vim-markdown-toc-release.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-14-rtfsc-with-opengrok.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2014-08-26-takephotos.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2014-08-30-aboutlife.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2014-09-27-myself.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2014-10-28-sevenhabits.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2014-11-25-jestem.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2014-12-06-emotion-manage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2014-12-07-habit-training-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2014-12-14-find-a-girl-friend.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-02-01-some-impressions.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-02-14-strum-life.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-03-30-work-lesson.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-05-09-no-need-to-tangle.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-05-28-leader-art.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-06-01-sogou-hackathon.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-06-12-wangxiaobo.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-07-23-busy-smart.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-09-02-love.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2015-10-25-without-internet.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2016-03-14-show-chump.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2017-01-01-my-2016.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2017-02-19-the-kite-runner.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/blog/2017-04-09-a-difficult-decision.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/template.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/android-studio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/axure.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/badminton.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/chinese-copywriting-guidelines.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/eclipse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/emacs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/git.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/good-soft.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/ida-pro.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/linux.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/mac.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/markdown.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/mpv.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/ollydbg.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/onenote.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/php.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/python.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/qt-creator.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/source-insight.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/swimming.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/template.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/vim.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/visual-studio-code.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/visual-studio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/components/boxed-group.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/components/collection.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/components/repo-card.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/globals/common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/globals/prism.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/globals/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/modules/sidebar-search.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/pages/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/posts/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/pygments/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/sections/article.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/sections/mini-repo-list.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/css/sections/repo-list.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/octicons-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/octocat-spinner-16px.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/octocat-spinner-32-EAF2F5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/qrcode.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/screenshots/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/geopattern.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/jquery.toc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/lunr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/prism.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/js/underscore-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/search_data.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/jquery/dist/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/jquery/dist/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/octicons/octicons-local.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/octicons/octicons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/octicons/octicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/octicons/octicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/octicons/octicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/octicons/octicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/alert.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/arrow-down.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/arrow-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/arrow-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/arrow-small-down.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/arrow-small-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/arrow-small-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/arrow-small-up.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/arrow-up.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/beaker.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/bell.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/book.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/bookmark.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/briefcase.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/broadcast.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/browser.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/bug.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/calendar.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/check.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/checklist.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/chevron-down.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/chevron-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/chevron-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/chevron-up.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/circle-slash.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/circuit-board.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/clippy.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/clock.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/cloud-download.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/cloud-upload.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/code.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/color-mode.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/comment-discussion.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/comment.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/credit-card.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/dash.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/dashboard.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/database.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/desktop-download.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/device-camera-video.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/device-camera.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/device-desktop.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/device-mobile.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/diff-added.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/diff-ignored.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/diff-modified.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/diff-removed.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/diff-renamed.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/diff.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/ellipsis.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/eye.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-binary.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-code.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-directory.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-media.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-pdf.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-submodule.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-symlink-directory.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-symlink-file.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-text.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/file-zip.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/flame.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/fold.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/gear.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/gift.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/gist-secret.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/gist.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/git-branch.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/git-commit.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/git-compare.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/git-merge.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/git-pull-request.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/globe.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/graph.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/heart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/history.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/home.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/horizontal-rule.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/hubot.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/inbox.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/info.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/issue-closed.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/issue-opened.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/issue-reopened.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/jersey.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/key.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/keyboard.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/law.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/light-bulb.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/link-external.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/link.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/list-ordered.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/list-unordered.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/location.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/lock.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/logo-github.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/mail-read.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/mail-reply.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/mail.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/mark-github.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/markdown.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/megaphone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/mention.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/milestone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/mirror.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/mortar-board.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/mute.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/no-newline.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/octoface.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/organization.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/package.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/paintcan.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/pencil.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/person.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/pin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/plug.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/plus.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/primitive-dot.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/primitive-square.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/pulse.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/question.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/quote.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/radio-tower.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/repo-clone.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/repo-force-push.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/repo-forked.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/repo-pull.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/repo-push.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/repo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/rocket.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/rss.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/ruby.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/screen-full.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/screen-normal.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/search.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/server.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/settings.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/shield.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/sign-in.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/sign-out.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/squirrel.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/star.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/stop.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/sync.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/tag.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/telescope.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/terminal.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/three-bars.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/thumbsdown.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/thumbsup.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/tools.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/trashcan.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/triangle-down.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/triangle-left.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/triangle-right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/triangle-up.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/unfold.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/unmute.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/versions.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/watch.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/x.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/octicons/svg/zap.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/overtrue-share.js/dist/css/share.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/overtrue-share.js/dist/fonts/iconfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/overtrue-share.js/dist/fonts/iconfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/overtrue-share.js/dist/fonts/iconfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/overtrue-share.js/dist/fonts/iconfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/overtrue-share.js/dist/js/share.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/primer-css/css/primer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/primer-markdown/dist/user-content.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/share.js/dist/css/share.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/share.js/dist/fonts/iconfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/share.js/dist/fonts/iconfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/share.js/dist/fonts/iconfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/share.js/dist/fonts/iconfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/share.js/dist/js/jquery.qrcode.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/vendor/share.js/dist/js/share.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/2016-plan-progress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/Andy-Lau.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/Diamond.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/Sharp-Brother.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/books-and-movies.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/chenmodedaduoshu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/excellence.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/github-contributions-2016.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/hackathon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/jestem-bs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/jestem-poem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/jestem.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/landscape.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/marathon-2016.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/meet-problem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/offline.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/solve-method1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/solve-method2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/the-kite-runner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/three-gooses.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/three-steps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/time-manage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/two-circles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/two-steps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/wangxiaobozhimu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/blog/wudaokou.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/am-start-call-stack.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/android-studio-check-sdk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/android-support-repository.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/app-process.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/authority-demo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/default-size.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/font-size.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/installed-app-details.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/new-project.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/private-library.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/remove-appcompat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/size-without-v4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/size-without-v7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/android/start-activity-call-stack.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/com/clientcallcom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/com/contain.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/com/outprocess.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/com/polymerize.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/com/polynormal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/com/polypoly.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/derivenooverride.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/derivenooverride_mem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/deriveoverride.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/deriveoverride_mem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/diamond.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/diamond_mem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/multiderive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/multiderive_mem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/objectwithnovirtual.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/objectwithnovirtual_mem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/objectwithvirtual.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/objectwithvirtual_mem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/staticstring_helloworld.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/virtualderive.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/cplusplus/virtualderive_mem.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/designpattern/DecoratorPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/designpattern/ObserverPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/designpattern/SingletonPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/designpattern/StrategyPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/excel/remove-duplicate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/fiddler/fiddler-filter-by-device-after.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/fiddler/fiddler-filter-by-device-before.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/gecko_embed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/gecko_embed_err1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/gecko_embed_err2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/geckouseprofile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_dat.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_dll.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_properties.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_properties2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/gecko/plugin_reg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/github/github-pages-with-https.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/github/https-config-dns.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/github/https-config-gh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/github/https-config-plugin-store.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/github/https-config-redirection-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/github/https-config-redirection-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/github/https-config-server-ip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/github/https-kloudsec-account.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/java/add-brace.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/java/output-ab.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/linux/install-additions.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/linux/xdiagnose-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/linux/xdiagnose.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/mac/dash-wait.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/mac/white-rectangle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/mac/zeal-for-mac.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/node/ternjs-auto-completion.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/node/ternjs-configure-project.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/add-website.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/discuz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/fastcgi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/iis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/mysql-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/nat-bind-ip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/php/phpinfo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/python/csdncommenter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/python/csdnscore.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/tools/catalina-home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/tools/opengrok-scr1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/tools/opengrok-scr2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/vim/gvim-32bit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/vim/gvim-with-python.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/vim/smali-vim.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/vim/vim-markdown-outline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/vim/vim-python-autocomplete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/vim/vim-without-python.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/windows/a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/windows/name.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/windows/pca.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/windows/queryfullprocessimagename.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/windows/setup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/posts/windowsskill/rclick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/visio/objmem.vsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/wiki/breaststroke.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/wiki/eclipse-need-java6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/404.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/about.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/categories.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/links.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/open-source.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/wiki.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="$PROJECT_DIR$/_layouts/page.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -538,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -583,6 +92,7 @@
         <option value="$PROJECT_DIR$/_posts/2017-07-18-test.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -724,12 +234,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500348081069</updated>
-      <workItem from="1500348082290" duration="6373000" />
+      <workItem from="1500348082290" duration="6564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6373000" />
+    <option name="totallyTimeSpent" value="6564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1932" height="1056" extended-state="0" />
@@ -812,14 +322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
@@ -832,6 +334,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
