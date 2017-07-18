@@ -1,112 +1,123 @@
-# ---------------- #
-#   Main Configs   #
-# ---------------- #
-baseurl: /joubn_blog
-url: http://mazhuang.org
-date_format: "ordinal"
-title: ÂëÖ¾
-subtitle: "´òÂë¸Ä±äÈËÉú"
-description: "Âí×³µÄ¸öÈË²©¿Í"
-keywords: ÂëÖ¾, Zhuang Ma, mzlogin, mazhuang
-favicon: /favicon.ico
-timezone: Asia/Shanghai
-encoding: "utf-8"
-side_bar_repo_limit: 5
+# Site settings
+title: Joubn Blog
+SEOTitle: å‘¨æ ‡çš„åšå®¢ | Joubn Blog
+header-img: img/home-bg.jpg
+email: huxpro@gmail.com
+description: "å…³äºå‰ç«¯ä¸è®¾è®¡ã€é»‘å®¢ä¸ç”»å®¶ | å‘¨æ ‡ï¼ŒWeb & Mobile Loverï¼ŒFront-End Engineerï¼ŒUX Designer | è¿™é‡Œæ˜¯ @joubnå‘¨æ ‡ çš„ä¸ªäººåšå®¢ï¼Œä¸ä½ ä¸€èµ·å‘ç°æ›´å¤§çš„ä¸–ç•Œã€‚"
+keyword: "å‘¨æ ‡, joubnå‘¨æ ‡, joubn, é¬¼æ ˆ, joubn, @å‘¨æ ‡, å‘¨æ ‡çš„åšå®¢, Hux Blog, åšå®¢, ä¸ªäººç½‘ç«™, äº’è”ç½‘, å‰ç«¯, è®¾è®¡, äº§å“"
+url:               # your host, for absolute URL
+baseurl: "/joubn_blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
-# ---------------- #
-#      Author      #
-# ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
 
-# ---------------- #
-#    Navigation    #
-# ---------------- #
-navs:
-  -
-    href: /
-    label: Ê×Ò³
 
-  -
-    href: /categories/
-    label: ·ÖÀà
+# SNS settings
+RSS: false
+weibo_username:     huxpro
+zhihu_username:     huxpro
+github_username:    huxpro
+twitter_username:   huxpro
+#facebook_username:  huxpro
+# linkedin_username:  firstname-lastname-idxxxx
 
-  -
-    href: /wiki/
-    label: Î¬»ù
 
-  -
-    href: /links/
-    label: Á´½Ó
 
-  -
-    href: /about/
-    label: ¹ØÓÚ
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
-# ---------------- #
-#       RSS        #
-# ---------------- #
-subscribe_rss: /feed.xml
 
-# ---------------- #
-#      Jekyll      #
-# ---------------- #
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-    input: GFM
-highlighter: rouge
-paginate: 8
-lsi: false
-quiet: false
-excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
-gems:
-    - jekyll-github-metadata
-    - rouge
-#     - jekyll-html-pipeline
-    - jekyll-paginate
-    - jekyll-sitemap
-    - jekyll-feed
-    - jemoji
-#     - jekyll-mentions
-collections:
-    wiki:
-        output: true
-        permalink: /wiki/:path/
+  input: GFM                            # use Github Flavored Markdown !important
 
-repository: mzlogin/mzlogin.github.io
 
-# ---------------- #
-#      Comments    #
-# ---------------- #
-# support provider: disqus, netease_gentie, gitment
-comments_provider: gitment
-# !!!ÖØÒª!!! ÇëĞŞ¸ÄÏÂÃæÕâĞ©ĞÅÏ¢ÎªÄã×Ô¼ºÉêÇëµÄ
-# !!!Important!!! Please modify infos below to yours
-# https://disqus.com
-disqus:
-    username: mzlogin
-# https://gentie.163.com
-netease_gentie:
-    productKey: 560ed243b708465d82d5a0a5f3b83da1
-# https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# ÔÚÊ¹ÓÃÆäËüÆÀÂÛ×é¼şÊ±¿Éµã»÷ÏÔÊ¾ Disqus
-lazy_load_disqus : true
 
-# ---------------- #
-#    Analytics     #
-# ---------------- #
-google:
-    analytics_id: UA-80669434-1
-baseurl: /joubn_blog
-theme: jekyll-theme-tactile
+# Disqus settings
+disqus_username: hux
+
+# Netease setttings
+netease_comment: false
+
+
+
+# Analytics settings
+# Baidu Analytics 
+# ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "å†™å†™ä»£ç ï¼Œåšåšè®¾è®¡ï¼Œ<br>ç¦»å¼€ä¸–ç•Œä¹‹å‰ï¼Œä¸€åˆ‡éƒ½æ˜¯è¿‡ç¨‹"
+sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+
+
+# Friends
+friends: [
+    {
+    #     title: "Su",
+    #     href: "http://su.gallery/"
+    # },{
+        title: "ä¹±åº",
+        href: "http://mida.re/"
+    },{
+        title: "å‰ç«¯å¤–åˆŠè¯„è®º",
+        href: "http://qianduan.guru/"
+    },{
+        title: "å¤©é•¶çš„åšå®¢",
+        href: "http://lingyu.wang/"
+    },{
+        title: "Luke çš„è‡ªç•™åœ°",
+        href: "http://hmqk1995.github.io"
+    },{
+        title: "Ebn's Blog",
+        href: "http://ebnbin.com/"
+    },{
+        title: "SmdCn's Blog",
+        href: "http://blog.smdcn.net"
+    },{
+        title: "è§£æ—»çš„åšå®¢",
+        href: "http://xieminis.me/"
+    },{
+        title: "DHong Say",
+        href: "http://dhong.co"
+    },{
+        title: "å°¹å³°ä»¥ä¸º",
+        href: "http://ingf.github.io/"
+    },{
+        title: "å‰ç«¯ç¥ç›¾å±€",
+        href: "http://wepiaofei.github.io/blog/"
+    }
+]
