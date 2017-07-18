@@ -1,13 +1,13 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: /joubn_blog
 url: http://mazhuang.org
 date_format: "ordinal"
-title: ç å¿—
-subtitle: "æ‰“ç æ”¹å˜äººç”Ÿ"
-description: "é©¬å£®çš„ä¸ªäººåšå®¢"
-keywords: ç å¿—, Zhuang Ma, mzlogin, mazhuang
+title: ÂëÖ¾
+subtitle: "´òÂë¸Ä±äÈËÉú"
+description: "Âí×³µÄ¸öÈË²©¿Í"
+keywords: ÂëÖ¾, Zhuang Ma, mzlogin, mazhuang
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -29,23 +29,23 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: é¦–é¡µ
+    label: Ê×Ò³
 
   -
     href: /categories/
-    label: åˆ†ç±»
+    label: ·ÖÀà
 
   -
     href: /wiki/
-    label: ç»´åŸº
+    label: Î¬»ù
 
   -
     href: /links/
-    label: é“¾æ¥
+    label: Á´½Ó
 
   -
     href: /about/
-    label: å…³äº
+    label: ¹ØÓÚ
 
 # ---------------- #
 #       RSS        #
@@ -85,7 +85,7 @@ repository: mzlogin/mzlogin.github.io
 # ---------------- #
 # support provider: disqus, netease_gentie, gitment
 comments_provider: gitment
-# !!!é‡è¦!!! è¯·ä¿®æ”¹ä¸‹é¢è¿™äº›ä¿¡æ¯ä¸ºä½ è‡ªå·±ç”³è¯·çš„
+# !!!ÖØÒª!!! ÇëĞŞ¸ÄÏÂÃæÕâĞ©ĞÅÏ¢ÎªÄã×Ô¼ºÉêÇëµÄ
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
@@ -100,7 +100,7 @@ gitment:
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
-# åœ¨ä½¿ç”¨å…¶å®ƒè¯„è®ºç»„ä»¶æ—¶å¯ç‚¹å‡»æ˜¾ç¤º Disqus
+# ÔÚÊ¹ÓÃÆäËüÆÀÂÛ×é¼şÊ±¿Éµã»÷ÏÔÊ¾ Disqus
 lazy_load_disqus : true
 
 # ---------------- #
@@ -108,3 +108,5 @@ lazy_load_disqus : true
 # ---------------- #
 google:
     analytics_id: UA-80669434-1
+baseurl: /joubn_blog
+theme: jekyll-theme-tactile
