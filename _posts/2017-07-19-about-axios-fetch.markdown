@@ -15,17 +15,19 @@ tags:
 > “A little bit of progress every day. ”
 
 ## axios vs fetch
-
+---
    很多同学可能不还在徘徊要用哪种请求方式，这里我要申明的一点就是[axios]还是传统的AJAX,只不过利用promise进行了封装
 ---
 
 ## axios
+---
+
     asdfasdfasdfasdf
 
 ---
 
 ## fetch
-
+---
     asdfasdfa
 
 
