@@ -22,13 +22,13 @@ tags:
 ## axios
 ---
 
-    asdfasdfasdfasdf
+
 
 ---
 
 ## fetch
 ---
-    asdfasdfa
+    
 
 
 ---
