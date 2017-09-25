@@ -29,10 +29,8 @@ tags:
 
 #### 效果图
 
-<div class="visible-md visible-lg">
-<img src="/joubn_blog/img/in-post/vue-component-recursion/end.png" width="350"/>
-<small class="img-hint">最终效果图</small>
-</div>
+![](/joubn_blog/img/in-post/vue-component-recursion/end.png)
+*最终效果图*
 
 #### mock数据
 
