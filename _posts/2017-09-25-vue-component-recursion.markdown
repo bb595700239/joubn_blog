@@ -27,14 +27,14 @@ tags:
 
 --这是定义递归组件的一个关键点
 
-####效果图
+#### 效果图
 
 <div class="visible-md visible-lg">
 <img src="/joubn_blog/img/in-post/vue-component-recursion/end.png" width="350"/>
 <small class="img-hint">最终效果图</small>
 </div>
 
-####mock数据
+#### mock数据
 
 ```js
 data () {
@@ -110,7 +110,7 @@ data () {
 }
 ```
 
-####封装成组件
+#### 封装成组件
 
 ```html
 <template>
