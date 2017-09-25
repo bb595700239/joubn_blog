@@ -30,7 +30,7 @@ tags:
 #### 效果图
 
 ![](/joubn_blog/img/in-post/vue-component-recursion/end.png)
-*最终效果图*
+<small class="img-hint">最终效果图</small>
 
 #### mock数据
 
