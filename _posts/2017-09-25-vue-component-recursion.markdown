@@ -18,15 +18,17 @@ tags:
 ## 前言
 
 前段时间做一个VUE后台管理系统，发现很多地方都有使用到组件的递归调用。
+
 一开始也是各种踩坑，今天抽时间整理一下放出来大家分享。
 
 ## 组件递归
 
 **组件在它的模板内可以递归地调用自己，只有当它有 name 选项时才可以。**
+
 --这是定义递归组件的一个关键点
 
 <div class="visible-md visible-lg">
-<img src="/joubn_blog/img/vue-component-recursion/end.png" width="350"/>
+<img src="/joubn_blog/img/in-post/vue-component-recursion/end.png" width="350"/>
 <small class="img-hint">最终效果图</small>
 </div>
 
@@ -108,7 +110,7 @@ data () {
 
 封装成组件
 
-```js
+```html
 <template>
   <li class="item">
     <div @click='toggle' v-if="!model.open_id">
@@ -166,7 +168,7 @@ data () {
 
 组件的调用
 
-```js
+```html
 <ul class="items">
     <item :model='model' v-for='(model,index) in list' :key="index"></item>
 </ul>
