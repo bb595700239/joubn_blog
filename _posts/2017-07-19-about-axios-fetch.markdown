@@ -8,6 +8,7 @@ header-img: "img/hello2017.jpg"
 header-mask: 0.3
 catalog: true
 tags:
+    - 前端开发
     - ajax
     - promise
 ---
