@@ -148,6 +148,7 @@ function setRate(rate){
 </div>
 <script type="text/javascript">
 function setRate(rate){
+    var rate = Number(rate)
     var angle=rate/100*360
     var l,x,y;
     if(angle==360){angle=359.99}
