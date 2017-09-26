@@ -115,7 +115,7 @@ SVG中path的元素，也就是路径绘制，属性名称是d, 具体值是由�
 ## 画静态圆孤
 
 <div style="text-align:center;margin-bottom:20px;">
-<svg style="width:250px; margin:0 auto;" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path><text x="43" y="65" fill="#ccc">joubn</text></svg>
+<svg style="width:250px; margin:0 auto;" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path><text x="50" y="70" fill="#ccc">joubn</text></svg>
 </div>
 
 ```html
@@ -140,7 +140,7 @@ function setRate(rate){
 ```
 ## 最终效果
 <div style="text-align:center;margin-bottom:20px;">
-<svg id="demo" style="width:250px; margin:0 auto;" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path><text x="43" y="65" fill="#ccc">joubn</text></svg>
+<svg id="demo" style="width:250px; margin:0 auto;" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path><text x="50" y="70" fill="#ccc">joubn</text></svg>
 </div>
 
 <div style="text-align:center;margin-bottom:20px;">
@@ -157,6 +157,7 @@ function setRate(rate){
     return 'M 4 65 A 61,61 0 '+l+' 1 '+x+','+y;
 }
 function demo(){
+    alert(1)
     document.querySelector('#demo').setAttribute('d',setRate(this.value))
 }
 </script>
