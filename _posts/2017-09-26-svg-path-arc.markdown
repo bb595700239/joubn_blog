@@ -146,6 +146,7 @@ function setRate(rate){
 <div style="text-align:center;margin-bottom:20px;">
     <input type="range" style="margin:0 auto;" onchange="demo(this)" />
 </div>
+
 <script type="text/javascript">
 function setRate(rate){
     var angle=rate/100*360
@@ -162,3 +163,23 @@ console.log(document.querySelector('#pathss').getAttribute('d'))
     document.querySelector('#pathss').setAttribute('d',setRate(obj.value))
 }
 </script>
+<style type="text/css">
+.path {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  -webkit-animation: dash 3s ease forwards;
+  animation: dash 3s ease forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+@-webkit-keyframes dash
+{
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+</style>
