@@ -51,8 +51,8 @@
       <file leaf-file-name="2017-09-26-svg-path-arc.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="118" column="3" lean-forward="false" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
+            <state relative-caret-position="621">
+              <caret line="146" column="125" lean-forward="false" selection-start-line="146" selection-start-column="125" selection-end-line="146" selection-end-column="125" />
               <folding />
             </state>
           </provider>
@@ -485,12 +485,12 @@
       <workItem from="1505781416359" duration="1174000" />
       <workItem from="1505783579169" duration="19613000" />
       <workItem from="1506319554635" duration="6305000" />
-      <workItem from="1506413411770" duration="3415000" />
+      <workItem from="1506413411770" duration="4406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39943000" />
+    <option name="totallyTimeSpent" value="40934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1921" height="1056" extended-state="0" />
@@ -901,8 +901,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="118" column="3" lean-forward="false" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
+        <state relative-caret-position="621">
+          <caret line="146" column="125" lean-forward="false" selection-start-line="146" selection-start-column="125" selection-end-line="146" selection-end-column="125" />
           <folding />
         </state>
       </provider>

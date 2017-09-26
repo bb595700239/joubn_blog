@@ -112,8 +112,48 @@ SVG中path的元素，也就是路径绘制，属性名称是d, 具体值是由�
 6. *x*                终点x轴坐标
 7. *y*                终点y轴坐标
 
-<svg width="100%" height="100%" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path></svg>
+## 画静态圆孤
+
+<div style="text-align:center;margin-bottom:20px;">
+<svg style="width:250px; margin:0 auto;" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path></svg>
+</div>
 
 ```html
-<svg width="100%" height="100%" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path></svg>
+<svg viewBox="0,0,130,130">
+    <circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle>
+    <path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path>
+</svg>
 ```
+
+## 封装方法
+
+```js
+function setRate(rate){
+    var angle=rate/100*360
+    var l,x,y;
+    if(angle==360){angle=359.99}
+    angle>180 ? l=1 : l=0;
+    x=65+61*Math.cos((180-angle)*(2*Math.PI/360));
+    y=65-61*Math.sin((180-angle)*(2*Math.PI/360));
+    return 'M 4 65 A 61,61 0 '+l+' 1 '+x+','+y;
+}
+```
+## 最终效果
+<div style="text-align:center;margin-bottom:20px;">
+<svg id="demo" style="width:250px; margin:0 auto;" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="path" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path></svg>
+</div>
+
+<div style="text-align:center;margin-bottom:20px;">
+    <input type="range" style="margin:0 auto;" onchange="document.querySelector('#demo').setAttribute('d',setRate(this.value))" />
+</div>
+<script type="text/javascript">
+function setRate(rate){
+    var angle=rate/100*360
+    var l,x,y;
+    if(angle==360){angle=359.99}
+    angle>180 ? l=1 : l=0;
+    x=65+61*Math.cos((180-angle)*(2*Math.PI/360));
+    y=65-61*Math.sin((180-angle)*(2*Math.PI/360));
+    return 'M 4 65 A 61,61 0 '+l+' 1 '+x+','+y;
+}
+</script>
