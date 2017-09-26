@@ -144,11 +144,10 @@ function setRate(rate){
 </div>
 
 <div style="text-align:center;margin-bottom:20px;">
-    <input type="range" style="margin:0 auto;" onchange="demo()" />
+    <input type="range" style="margin:0 auto;" onchange="demo(this)" />
 </div>
 <script type="text/javascript">
 function setRate(rate){
-    var rate = Number(rate)
     var angle=rate/100*360
     var l,x,y;
     if(angle==360){angle=359.99}
@@ -157,7 +156,7 @@ function setRate(rate){
     y=65-61*Math.sin((180-angle)*(2*Math.PI/360));
     return 'M 4 65 A 61,61 0 '+l+' 1 '+x+','+y;
 }
-function demo(){
-    document.querySelector('#path').setAttribute('d',setRate(this.value))
+function demo(obj){
+    document.querySelector('#path').setAttribute('d',setRate(obj.value))
 }
 </script>
