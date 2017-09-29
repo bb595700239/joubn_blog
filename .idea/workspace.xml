@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4367e5-fa23-442f-84c4-eee771cd5375" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown" afterPath="$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -50,8 +51,8 @@
       <file leaf-file-name="2017-09-26-svg-path-arc.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="172" column="344" lean-forward="true" selection-start-line="172" selection-start-column="344" selection-end-line="172" selection-end-column="363" />
+            <state relative-caret-position="249">
+              <caret line="157" column="63" lean-forward="false" selection-start-line="157" selection-start-column="63" selection-end-line="157" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -524,12 +525,12 @@
       <workItem from="1506319554635" duration="6305000" />
       <workItem from="1506413411770" duration="6576000" />
       <workItem from="1506473768035" duration="2313000" />
-      <workItem from="1506648062971" duration="1968000" />
+      <workItem from="1506648062971" duration="3295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47385000" />
+    <option name="totallyTimeSpent" value="48712000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1921" height="1056" extended-state="0" />
@@ -943,8 +944,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="172" column="344" lean-forward="true" selection-start-line="172" selection-start-column="344" selection-end-line="172" selection-end-column="363" />
+        <state relative-caret-position="249">
+          <caret line="157" column="63" lean-forward="false" selection-start-line="157" selection-start-column="63" selection-end-line="157" selection-end-column="63" />
           <folding />
         </state>
       </provider>

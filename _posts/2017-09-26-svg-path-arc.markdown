@@ -155,7 +155,7 @@ function draw(d){
       ctx.strokeStyle ="#d9d9d9"; //设置描边颜色
       ctx.lineWidth = 3 //设置描边宽度
       ctx.beginPath();
-      ctx.arc(125,125,122,0,Math.PI*2,true);//画一个圆心坐标（375*75px）半径50px的圆弧，从0开始到Math.PI*2结束，按照顺时针方向。
+      ctx.arc(125,125,122,0,Math.PI*2,true);//画一个圆心坐标（125*125px）半径122px的圆弧，从0开始到Math.PI*2结束，按照顺时针方向。
       ctx.stroke();
       ctx.strokeStyle ="#ff5256";
       var path = new Path2D(d);
