@@ -170,7 +170,7 @@ function draw(d){
 
 ## 最终效果
 <div style="text-align:center;margin-bottom:20px;">
-<svg style="width:250px; margin:0 auto;" viewBox="0,0,250,250"><circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle><path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path><text x="86" y="130" fill="#ccc" font-size="30">Joubn</text></svg>
+<svg style="width:250px; margin:0 auto;" viewBox="0,0,250,250"><circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle><path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path><text x="103" y="130" fill="#ccc" font-size="30">svg</text></svg>
 </div>
 
 <div style="text-align:center;margin-bottom:20px;">
@@ -221,9 +221,9 @@ function demo(obj){
     document.querySelector('#pathss').setAttribute('d',setRate(val))
     draw(setRate(val))
 }
-$(function(){
-    draw('M 3 125 A 122,122 0 0 1 247,125');
-})
+
+window.onload = draw('M 3 125 A 122,122 0 0 1 247,125');
+
 </script>
 <style type="text/css">
 .path {
