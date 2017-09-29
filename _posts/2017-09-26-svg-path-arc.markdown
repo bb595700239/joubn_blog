@@ -115,7 +115,7 @@ SVG中path的元素，也就是路径绘制，属性名称是d, 具体值是由�
 ## 画静态圆孤
 
 <div style="text-align:center;margin-bottom:20px;">
-<svg style="width:250px; margin:0 auto;" viewBox="0,0,250,250"><circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle><path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path><text x="86" y="130" fill="#ccc" font-size="30">Joubn</text></svg>
+<svg style="width:250px; margin:0 auto;" viewBox="0,0,250,250"><circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle><path class="path" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path><text x="86" y="130" fill="#ccc" font-size="30">Joubn</text></svg>
 </div>
 
 ```html
@@ -201,7 +201,7 @@ function draw(d){
       var path = new Path2D(d);
       ctx.stroke(path);
       ctx.fillStyle = "#ccc";
-      ctx.font = "30px -apple-system";
+      ctx.font = "30px";
       ctx.fillText("canvas", 80, 130);//实心文字
 
     }

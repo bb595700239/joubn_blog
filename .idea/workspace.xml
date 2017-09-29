@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4367e5-fa23-442f-84c4-eee771cd5375" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown" afterPath="$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,8 +50,8 @@
       <file leaf-file-name="2017-09-26-svg-path-arc.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="225" column="0" lean-forward="true" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -122,7 +121,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hux-blog</find>
       <find>FRIENDS</find>
       <find>hux</find>
       <find>friends</find>
@@ -152,6 +150,7 @@
       <find>ajax</find>
       <find>embed</find>
       <find>preload</find>
+      <find>pathss</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -525,12 +524,12 @@
       <workItem from="1506319554635" duration="6305000" />
       <workItem from="1506413411770" duration="6576000" />
       <workItem from="1506473768035" duration="2313000" />
-      <workItem from="1506648062971" duration="1441000" />
+      <workItem from="1506648062971" duration="1624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46858000" />
+    <option name="totallyTimeSpent" value="47041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1921" height="1056" extended-state="0" />
@@ -944,8 +943,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="225" column="0" lean-forward="true" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+        <state relative-caret-position="374">
+          <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
           <folding />
         </state>
       </provider>
