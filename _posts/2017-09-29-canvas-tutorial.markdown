@@ -160,7 +160,10 @@ tags:
         running = true;
       }
     });
-
+    canvas.addEventListener('mouseout', function(e){
+      window.cancelAnimationFrame(raf);
+      running = false;
+    });
     ball.draw();
     }
   }
@@ -308,7 +311,10 @@ tags:
             running = true;
           }
         });
-
+        canvas.addEventListener('mouseout', function(e){
+          window.cancelAnimationFrame(raf);
+          running = false;
+        });
         ball.draw();
         }
       }
