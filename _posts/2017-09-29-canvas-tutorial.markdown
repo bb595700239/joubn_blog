@@ -150,7 +150,7 @@ tags:
 
     canvas.addEventListener('mousemove', function(e){
 
-      ball.rectx = e.clientX-canvas.offsetLeft-ball.rectlength/2;
+      ball.rectx = e.clientX-canvas.offsetLeft-ball.rectlength/2-541;
       ball.rectx=ball.rectx/706*1200
     });
 
