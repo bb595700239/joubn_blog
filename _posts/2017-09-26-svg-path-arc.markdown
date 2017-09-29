@@ -170,7 +170,7 @@ function draw(d){
 
 ## 最终效果
 <div style="text-align:center;margin-bottom:20px;">
-<svg style="width:250px; margin:0 auto;" viewBox="0,0,250,250"><circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle><path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path><text x="103" y="130" fill="#ccc" font-size="30">svg</text></svg>
+<svg style="width:250px; margin:0 auto;" viewBox="0,0,250,250"><circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle><path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path><text x="103" y="130" fill="#ccc" font-size="30" font-family="arial">svg</text></svg>
 </div>
 
 <div style="text-align:center;margin-bottom:20px;">
@@ -201,7 +201,7 @@ function draw(d){
       var path = new Path2D(d);
       ctx.stroke(path);
       ctx.fillStyle = "#ccc";
-      ctx.font = "30px";
+      ctx.font = "30px arial";
       ctx.fillText("canvas", 80, 130);//实心文字
 
     }

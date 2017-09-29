@@ -50,8 +50,8 @@
       <file leaf-file-name="2017-09-26-svg-path-arc.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+            <state relative-caret-position="173">
+              <caret line="172" column="344" lean-forward="true" selection-start-line="172" selection-start-column="344" selection-end-line="172" selection-end-column="363" />
               <folding />
             </state>
           </provider>
@@ -524,12 +524,12 @@
       <workItem from="1506319554635" duration="6305000" />
       <workItem from="1506413411770" duration="6576000" />
       <workItem from="1506473768035" duration="2313000" />
-      <workItem from="1506648062971" duration="1624000" />
+      <workItem from="1506648062971" duration="1968000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47041000" />
+    <option name="totallyTimeSpent" value="47385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1921" height="1056" extended-state="0" />
@@ -858,14 +858,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/blog-desktop.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -941,10 +933,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+        <state relative-caret-position="173">
+          <caret line="172" column="344" lean-forward="true" selection-start-line="172" selection-start-column="344" selection-end-line="172" selection-end-column="363" />
           <folding />
         </state>
       </provider>
