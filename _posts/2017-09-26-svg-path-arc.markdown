@@ -115,13 +115,14 @@ SVG中path的元素，也就是路径绘制，属性名称是d, 具体值是由�
 ## 画静态圆孤
 
 <div style="text-align:center;margin-bottom:20px;">
-<svg style="width:250px; margin:0 auto;" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path><text x="50" y="70" fill="#ccc">joubn</text></svg>
+<svg style="width:250px; margin:0 auto;" viewBox="0,0,250,250"><circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle><path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path><text x="86" y="130" fill="#ccc" font-size="30">Joubn</text></svg>
 </div>
 
 ```html
-<svg viewBox="0,0,130,130">
-    <circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle>
-    <path stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path>
+<svg viewBox="0,0,250,250">
+    <circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle>
+    <path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path>
+    <text x="86" y="130" fill="#ccc" font-size="30">Joubn</text>
 </svg>
 ```
 
@@ -133,35 +134,96 @@ function setRate(rate){
     var l,x,y;
     if(angle==360){angle=359.99}
     angle>180 ? l=1 : l=0;
-    x=65+61*Math.cos((180-angle)*(2*Math.PI/360));
-    y=65-61*Math.sin((180-angle)*(2*Math.PI/360));
-    return 'M 4 65 A 61,61 0 '+l+' 1 '+x+','+y;
+    x=125+122*Math.cos((180-angle)*(2*Math.PI/360));
+    y=125-122*Math.sin((180-angle)*(2*Math.PI/360));
+    return 'M 3 125 A 122,122 0 '+l+' 1 '+x+','+y;
 }
 ```
+## 补充canvas
+
+```js
+function draw(d){
+    var canvas = document.getElementById('tutorial');
+    if (canvas.getContext){
+      var ctx = canvas.getContext('2d');
+
+      ctx.fillStyle = '#fff';
+      ctx.fillRect(0,0,canvas.width,canvas.height);
+
+      //画圆形
+      ctx.lineCap = "round"
+      ctx.strokeStyle ="#d9d9d9"; //设置描边颜色
+      ctx.lineWidth = 3 //设置描边宽度
+      ctx.beginPath();
+      ctx.arc(125,125,122,0,Math.PI*2,true);//画一个圆心坐标（375*75px）半径50px的圆弧，从0开始到Math.PI*2结束，按照顺时针方向。
+      ctx.stroke();
+      ctx.strokeStyle ="#ff5256";
+      var path = new Path2D(d);
+      ctx.stroke(path);
+      ctx.fillStyle = "#ccc";
+      ctx.font = "30px -apple-system";
+      ctx.fillText("canvas", 80, 130);//实心文字
+
+    }
+}
+```
+
 ## 最终效果
 <div style="text-align:center;margin-bottom:20px;">
-<svg style="width:250px; margin:0 auto;" viewBox="0,0,130,130"><circle cx="65" cy="65" r="61" stroke="#d9d9d9" fill="none" stroke-width="2"></circle><path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="2" stroke-linecap="round" d="M 4 65 A 61,61 0 0 1 124.91952229445,53.56973981027079"></path><text x="50" y="70" fill="#ccc">joubn</text></svg>
+<svg style="width:250px; margin:0 auto;" viewBox="0,0,250,250"><circle cx="125" cy="125" r="122" stroke="#d9d9d9" fill="none" stroke-width="3"></circle><path class="path" id="pathss" stroke="#ff5256" fill="none" stroke-width="3" stroke-linecap="round" d="M 3 125 A 122,122 0 0 1 247,125"></path><text x="86" y="130" fill="#ccc" font-size="30">Joubn</text></svg>
 </div>
 
 <div style="text-align:center;margin-bottom:20px;">
     <input type="range" style="margin:0 auto;" onchange="demo(this)" />
 </div>
 
+<div style="text-align:center;margin-bottom:20px;">
+    <canvas id="tutorial" width="250" height="250" style="width:250px; margin:0 auto;"></canvas>
+</div>
+
 <script type="text/javascript">
+function draw(d){
+    var canvas = document.getElementById('tutorial');
+    if (canvas.getContext){
+      var ctx = canvas.getContext('2d');
+
+      ctx.fillStyle = '#fff';
+      ctx.fillRect(0,0,canvas.width,canvas.height);
+
+      //画圆形
+      ctx.lineCap = "round"
+      ctx.strokeStyle ="#d9d9d9"; //设置描边颜色
+      ctx.lineWidth = 3 //设置描边宽度
+      ctx.beginPath();
+      ctx.arc(125,125,122,0,Math.PI*2,true);//画一个圆心坐标（125*125）半径122px的圆弧，从0开始到Math.PI*2结束，按照顺时针方向。
+      ctx.stroke();
+      ctx.strokeStyle ="#ff5256";
+      var path = new Path2D(d);
+      ctx.stroke(path);
+      ctx.fillStyle = "#ccc";
+      ctx.font = "30px -apple-system";
+      ctx.fillText("canvas", 80, 130);//实心文字
+
+    }
+  }
+
 function setRate(rate){
     var angle=rate/100*360
     var l,x,y;
     if(angle==360){angle=359.99}
     angle>180 ? l=1 : l=0;
-    x=65+61*Math.cos((180-angle)*(2*Math.PI/360));
-    y=65-61*Math.sin((180-angle)*(2*Math.PI/360));
-    return 'M 4 65 A 61,61 0 '+l+' 1 '+x+','+y;
+    x=125+122*Math.cos((180-angle)*(2*Math.PI/360));
+    y=125-122*Math.sin((180-angle)*(2*Math.PI/360));
+    return 'M 3 125 A 122,122 0 '+l+' 1 '+x+','+y;
 }
 function demo(obj){
-console.log(obj.value)
-console.log(document.querySelector('#pathss').getAttribute('d'))
-    document.querySelector('#pathss').setAttribute('d',setRate(obj.value))
+    var val=obj.value
+    document.querySelector('#pathss').setAttribute('d',setRate(val))
+    draw(setRate(val))
 }
+$(function(){
+    draw('M 3 125 A 122,122 0 0 1 247,125');
+})
 </script>
 <style type="text/css">
 .path {
