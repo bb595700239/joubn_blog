@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4367e5-fa23-442f-84c4-eee771cd5375" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/about/zh.md" afterPath="$PROJECT_DIR$/_includes/about/zh.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown" afterPath="$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,39 +19,74 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="zh.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="209">
+                <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2017-09-25-vue-component-recursion.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-07-19-about-axios-fetch.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-19-about-axios-fetch.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-07-18-hello-2017.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-07-18-hello-2017.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="274">
+                <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+                <folding>
+                  <marker date="1506760626244" expanded="true" signature="531:1706" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="542:1704" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="553:1700" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="561:698" ph="{&quot;name&quot;: '协会1'...}" />
+                  <marker date="1506760626244" expanded="true" signature="602:690" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="614:680" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="706:947" ph="{&quot;name&quot;: '协会2'...}" />
+                  <marker date="1506760626244" expanded="true" signature="747:939" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="759:929" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="809:917" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="825:903" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="955:1196" ph="{&quot;name&quot;: '协会3'...}" />
+                  <marker date="1506760626244" expanded="true" signature="996:1188" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="1008:1178" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="1058:1166" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="1074:1152" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="1204:1445" ph="{&quot;name&quot;: '协会4'...}" />
+                  <marker date="1506760626244" expanded="true" signature="1245:1437" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="1257:1427" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="1307:1415" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="1323:1401" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="1453:1694" ph="{&quot;name&quot;: '协会5'...}" />
+                  <marker date="1506760626244" expanded="true" signature="1494:1686" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="1506:1676" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="1556:1664" ph="[...]" />
+                  <marker date="1506760626244" expanded="true" signature="1572:1650" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+                  <marker date="1506760626244" expanded="true" signature="1741:2667" ph="..." />
+                  <marker date="1506760626244" expanded="true" signature="1761:2655" ph="..." />
+                  <marker date="1506760626244" expanded="true" signature="1809:2129" ph="..." />
+                  <marker date="1506760626244" expanded="true" signature="2145:2505" ph="..." />
+                  <marker date="1506760626244" expanded="true" signature="2213:2495" ph="..." />
+                  <marker date="1506760626244" expanded="true" signature="2544:2647" ph="..." />
+                  <marker date="1506760626244" expanded="true" signature="2622:2637" ph="..." />
+                  <marker date="1506760626244" expanded="true" signature="2677:3198" ph="..." />
+                  <marker date="1506760626244" expanded="true" signature="2696:3189" ph="{&quot;name&quot;: 'items'...}" />
+                  <marker date="1506760626244" expanded="true" signature="2751:2802" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="2766:2796" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="2819:2827" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="2843:2942" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="2862:2936" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="2957:3070" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="2984:3064" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="3012:3056" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="3088:3095" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="3109:3185" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="3130:3179" ph="{...}" />
+                  <marker date="1506760626244" expanded="true" signature="3242:3324" ph="..." />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -135,7 +172,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -145,11 +182,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="feed.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/feed.xml">
+      <file leaf-file-name="end.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/in-post/vue-component-recursion/end.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            <state relative-caret-position="342">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -159,7 +203,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hux</find>
       <find>friends</find>
       <find>i-vue</find>
       <find>http://ot9o50y1d.bkt.clouddn.com/avatar-hux.jpg</find>
@@ -189,6 +232,7 @@
       <find>preload</find>
       <find>pathss</find>
       <find>jekyll</find>
+      <find>/joubn_blog</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -208,16 +252,16 @@
         <option value="$PROJECT_DIR$/portfolio/index.html" />
         <option value="$PROJECT_DIR$/_posts/2017-07-19-about-photo.markdown" />
         <option value="$PROJECT_DIR$/sw.js" />
-        <option value="$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_layouts/keynote.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/_includes/about/zh.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-09-29-canvas-tutorial.markdown" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown" />
+        <option value="$PROJECT_DIR$/_includes/about/zh.md" />
       </list>
     </option>
   </component>
@@ -308,6 +352,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joubn_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joubn_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="in-post" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joubn_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joubn_blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="in-post" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vue-component-recursion" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -566,12 +650,12 @@
       <workItem from="1506473768035" duration="2313000" />
       <workItem from="1506648062971" duration="5515000" />
       <workItem from="1506665050597" duration="6870000" />
-      <workItem from="1506758245048" duration="896000" />
+      <workItem from="1506758245048" duration="1206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58698000" />
+    <option name="totallyTimeSpent" value="59008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1924" height="1056" extended-state="0" />
@@ -581,6 +665,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -593,7 +678,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -628,13 +712,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts-old/blog/2014-12-14-find-a-girl-friend.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts-old/blog/2014-12-07-habit-training-1.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -773,13 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3211">
@@ -891,23 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts-old/hux_blog/2014-12-13-wechat-block-kuaidi.markdown">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-782">
@@ -947,23 +1000,6 @@
         <state relative-caret-position="228">
           <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1079,6 +1115,149 @@
         <state relative-caret-position="133">
           <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/in-post/vue-component-recursion/end.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="15" />
+          <folding>
+            <marker date="1506760626244" expanded="true" signature="531:1706" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="542:1704" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="553:1700" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="561:698" ph="{&quot;name&quot;: '协会1'...}" />
+            <marker date="1506760626244" expanded="true" signature="602:690" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="614:680" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="706:947" ph="{&quot;name&quot;: '协会2'...}" />
+            <marker date="1506760626244" expanded="true" signature="747:939" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="759:929" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="809:917" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="825:903" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="955:1196" ph="{&quot;name&quot;: '协会3'...}" />
+            <marker date="1506760626244" expanded="true" signature="996:1188" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="1008:1178" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="1058:1166" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="1074:1152" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="1204:1445" ph="{&quot;name&quot;: '协会4'...}" />
+            <marker date="1506760626244" expanded="true" signature="1245:1437" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="1257:1427" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="1307:1415" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="1323:1401" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="1453:1694" ph="{&quot;name&quot;: '协会5'...}" />
+            <marker date="1506760626244" expanded="true" signature="1494:1686" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="1506:1676" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="1556:1664" ph="[...]" />
+            <marker date="1506760626244" expanded="true" signature="1572:1650" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+            <marker date="1506760626244" expanded="true" signature="1741:2667" ph="..." />
+            <marker date="1506760626244" expanded="true" signature="1761:2655" ph="..." />
+            <marker date="1506760626244" expanded="true" signature="1809:2129" ph="..." />
+            <marker date="1506760626244" expanded="true" signature="2145:2505" ph="..." />
+            <marker date="1506760626244" expanded="true" signature="2213:2495" ph="..." />
+            <marker date="1506760626244" expanded="true" signature="2544:2647" ph="..." />
+            <marker date="1506760626244" expanded="true" signature="2622:2637" ph="..." />
+            <marker date="1506760626244" expanded="true" signature="2677:3198" ph="..." />
+            <marker date="1506760626244" expanded="true" signature="2696:3189" ph="{&quot;name&quot;: 'items'...}" />
+            <marker date="1506760626244" expanded="true" signature="2751:2802" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="2766:2796" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="2819:2827" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="2843:2942" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="2862:2936" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="2957:3070" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="2984:3064" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="3012:3056" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="3088:3095" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="3109:3185" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="3130:3179" ph="{...}" />
+            <marker date="1506760626244" expanded="true" signature="3242:3324" ph="..." />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="274">
+            <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+            <folding>
+              <marker date="1506760626244" expanded="true" signature="531:1706" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="542:1704" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="553:1700" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="561:698" ph="{&quot;name&quot;: '协会1'...}" />
+              <marker date="1506760626244" expanded="true" signature="602:690" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="614:680" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="706:947" ph="{&quot;name&quot;: '协会2'...}" />
+              <marker date="1506760626244" expanded="true" signature="747:939" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="759:929" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="809:917" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="825:903" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="955:1196" ph="{&quot;name&quot;: '协会3'...}" />
+              <marker date="1506760626244" expanded="true" signature="996:1188" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="1008:1178" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="1058:1166" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="1074:1152" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="1204:1445" ph="{&quot;name&quot;: '协会4'...}" />
+              <marker date="1506760626244" expanded="true" signature="1245:1437" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="1257:1427" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="1307:1415" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="1323:1401" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="1453:1694" ph="{&quot;name&quot;: '协会5'...}" />
+              <marker date="1506760626244" expanded="true" signature="1494:1686" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="1506:1676" ph="{&quot;name&quot;: &quot;会长&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="1556:1664" ph="[...]" />
+              <marker date="1506760626244" expanded="true" signature="1572:1650" ph="{&quot;name&quot;: &quot;周标&quot;...}" />
+              <marker date="1506760626244" expanded="true" signature="1741:2667" ph="..." />
+              <marker date="1506760626244" expanded="true" signature="1761:2655" ph="..." />
+              <marker date="1506760626244" expanded="true" signature="1809:2129" ph="..." />
+              <marker date="1506760626244" expanded="true" signature="2145:2505" ph="..." />
+              <marker date="1506760626244" expanded="true" signature="2213:2495" ph="..." />
+              <marker date="1506760626244" expanded="true" signature="2544:2647" ph="..." />
+              <marker date="1506760626244" expanded="true" signature="2622:2637" ph="..." />
+              <marker date="1506760626244" expanded="true" signature="2677:3198" ph="..." />
+              <marker date="1506760626244" expanded="true" signature="2696:3189" ph="{&quot;name&quot;: 'items'...}" />
+              <marker date="1506760626244" expanded="true" signature="2751:2802" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="2766:2796" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="2819:2827" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="2843:2942" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="2862:2936" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="2957:3070" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="2984:3064" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="3012:3056" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="3088:3095" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="3109:3185" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="3130:3179" ph="{...}" />
+              <marker date="1506760626244" expanded="true" signature="3242:3324" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about/zh.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
