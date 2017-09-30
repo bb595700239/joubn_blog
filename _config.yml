@@ -51,9 +51,9 @@ kramdown:
 disqus_username: joubn
 
 # Netease setttings
-netease_comment: true
+netease_comment: false
 
-
+changyan_comment: true
 
 # Analytics settings
 # Baidu Analytics 
