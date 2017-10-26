@@ -65,10 +65,10 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="472">
-                <caret line="111" column="1" lean-forward="true" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
+                <caret line="181" column="8" lean-forward="false" selection-start-line="181" selection-start-column="8" selection-end-line="181" selection-end-column="8" />
                 <folding>
-                  <marker date="1508999770912" expanded="true" signature="859:1180" ph="{...}" />
-                  <marker date="1508999770912" expanded="true" signature="1205:1241" ph="{...}" />
+                  <marker date="1509000524375" expanded="true" signature="859:1180" ph="{...}" />
+                  <marker date="1509000524375" expanded="true" signature="1205:1241" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -557,12 +557,12 @@
       <workItem from="1507520362272" duration="649000" />
       <workItem from="1507599775981" duration="1034000" />
       <workItem from="1508743799348" duration="2002000" />
-      <workItem from="1508978621536" duration="16873000" />
+      <workItem from="1508978621536" duration="17622000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81916000" />
+    <option name="totallyTimeSpent" value="82665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -1080,10 +1080,10 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="472">
-            <caret line="111" column="1" lean-forward="true" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
+            <caret line="181" column="8" lean-forward="false" selection-start-line="181" selection-start-column="8" selection-end-line="181" selection-end-column="8" />
             <folding>
-              <marker date="1508999770912" expanded="true" signature="859:1180" ph="{...}" />
-              <marker date="1508999770912" expanded="true" signature="1205:1241" ph="{...}" />
+              <marker date="1509000524375" expanded="true" signature="859:1180" ph="{...}" />
+              <marker date="1509000524375" expanded="true" signature="1205:1241" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

@@ -126,33 +126,27 @@ body{
 }
 
 .list-name{
-cursor: pointer;
+    position: relative;
+    cursor: pointer;
     width: 322px;
     height: 61px;
     margin:0 auto;
     background: url(/img/in-post/background-clip/goldlala.png) no-repeat;
     background-size: 100% 100%;
-       -webkit-background-clip: text;
+    -webkit-background-clip: text;
     color: transparent;
     font-family: 'MyCustomFont';
-
 }
 .list-name img{
     width: 322px;
-      height: 61px;
-     position: absolute;
+    height: 61px;
+    position: absolute;
+    left: 0;
     display: inline-block;
     z-index: -1;
     margin: 0;
 }
-.list-name .tit{
-     width: 322px;
-     height: 61px;
-    font-size: 35px;
-    text-align: center;
-     line-height: 72px;
 
-}
 
 @-webkit-keyframes loop{
      0%{background-position: -800px 0;}
@@ -185,11 +179,11 @@ cursor: pointer;
 ### 最终效果
 <div class="list-name">
     <img src="/img/in-post/background-clip/listbg.png">
-    <p class="tit">点我试试</p>
+    点我试试
 </div>
 <script>
 $('.list-name').click(function(){
-$('.list-name').css({'background':'url(/img/in-post/background-clip/goldlala.png)','-webkit-background-clip':'text'}).find('.tit').html('试试就试试')
+    $(this).text('试试就试试')
 })
 </script>
 
