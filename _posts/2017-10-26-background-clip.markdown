@@ -79,7 +79,7 @@ body{
 <div>
 <div id="demo" style="-webkit-background-clip: content-box;">美女</div>
 <div id="dctrl2"> 
-<input id="cb" type="radio" name="dctrl2" value="content-box"> 
+<input id="cb" type="radio" name="dctrl2" value="content-box" checked="checked"> 
 <label for="cb">content-box</label> <br>
 	<input id="pb" type="radio" name="dctrl2" value="padding-box">
 	<label for="pb">padding-box</label>
@@ -87,7 +87,7 @@ body{
 	<input id="bb" type="radio" name="dctrl2" value="border-box">
 	<label for="bb">border-box</label>
 <br>
-	<input id="t" type="radio" name="dctrl2" value="text" checked="checked">
+	<input id="t" type="radio" name="dctrl2" value="text">
 	<label for="t">text</label>
 </div>
 <script type="text/javascript">
@@ -112,6 +112,7 @@ body{
 }
 
 .list-name{
+cursor: pointer;
     width: 322px;
     height: 61px;
     margin:0 auto;
@@ -138,9 +139,7 @@ body{
      line-height: 72px;
 
 }
-.list-name2{
-    cursor: pointer;
-}
+
 @-webkit-keyframes loop{
      0%{background-position: -800px 0;}
      100%{background-position: -0 0;}
@@ -186,9 +185,10 @@ body{
 $('.list-name').click(function(){
 $('.list-name').css({'background':'url(./assets/images/goldlala.png)','-webkit-background-clip':'text'}).find('.tit').html('试试就试试')
 })
+</script>
 
 ### 拓展
 
 <div class="text2">天空灰的像哭过</div>
 
-</script>
+
