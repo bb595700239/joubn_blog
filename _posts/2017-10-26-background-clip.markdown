@@ -127,14 +127,15 @@ body{
       height: 85px;
      position: absolute;
     display: inline-block;
-    z-index: -1
+    z-index: -1;
+    margin: 0;
 }
 .list-name .tit{
      width: 322px;
      height: 85px;
     font-size: 35px;
     text-align: center;
-    line-height: 85px;
+    line-height: 119px;
 
 }
 
@@ -155,7 +156,7 @@ body{
 
 这里要注意的事设置`background-clip:text`的同时要把字体颜色设置为透明`color: transparent`这样底下的图片才能显示出来。（跟PS图层蒙板很像，蒙板越黑显示的图片越清楚。因为PS里黑色就是代表没有颜色）
 
-##静态效果
+### 静态效果
 <div class="list-name">
     <img src="/img/in-post/background-clip/listbg.png">
     <p class="tit">我就切了你</p>

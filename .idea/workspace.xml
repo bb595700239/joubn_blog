@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4367e5-fa23-442f-84c4-eee771cd5375" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" afterPath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -54,13 +55,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="open-source-license.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/in-post/open-source-license.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="forcify.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/in-post/forcify.jpg">
           <provider selected="true" editor-type-id="images">
@@ -68,18 +62,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-26-background-clip.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-10-26-background-clip.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="624">
-                <caret line="159" column="14" lean-forward="false" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+              <first_editor relative-caret-position="1384">
+                <caret line="137" column="23" lean-forward="false" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
                 <folding>
-                  <marker date="1508994317833" expanded="true" signature="859:1180" ph="{...}" />
-                  <marker date="1508994317833" expanded="true" signature="1205:1241" ph="{...}" />
+                  <marker date="1508996180215" expanded="true" signature="859:1180" ph="{...}" />
+                  <marker date="1508996180215" expanded="true" signature="1205:1241" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -154,9 +168,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/README.zh.md" />
         <option value="$PROJECT_DIR$/_includes/about/en.md" />
         <option value="$PROJECT_DIR$/_posts/2017-07-19-about-axios-fetch.markdown" />
@@ -176,6 +188,8 @@
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
       </list>
     </option>
   </component>
@@ -552,12 +566,12 @@
       <workItem from="1507520362272" duration="649000" />
       <workItem from="1507599775981" duration="1034000" />
       <workItem from="1508743799348" duration="2002000" />
-      <workItem from="1508978621536" duration="12453000" />
+      <workItem from="1508978621536" duration="13401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77496000" />
+    <option name="totallyTimeSpent" value="78444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -614,20 +628,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts-old/hux_blog/2016-06-05-pwa-in-my-pov.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts-old/hux_blog/2016-02-01-React-vs-Angular2.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="82" column="19" lean-forward="false" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3211">
@@ -1074,14 +1074,30 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="624">
-            <caret line="159" column="14" lean-forward="false" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
+          <first_editor relative-caret-position="1384">
+            <caret line="137" column="23" lean-forward="false" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
             <folding>
-              <marker date="1508994317833" expanded="true" signature="859:1180" ph="{...}" />
-              <marker date="1508994317833" expanded="true" signature="1205:1241" ph="{...}" />
+              <marker date="1508996180215" expanded="true" signature="859:1180" ph="{...}" />
+              <marker date="1508996180215" expanded="true" signature="1205:1241" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
