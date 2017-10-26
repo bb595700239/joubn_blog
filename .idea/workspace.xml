@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4367e5-fa23-442f-84c4-eee771cd5375" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/meinv.jpg" afterPath="$PROJECT_DIR$/img/meinv.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" afterPath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -65,11 +64,11 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="282">
-                <caret line="180" column="8" lean-forward="true" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
+              <first_editor relative-caret-position="377">
+                <caret line="154" column="37" lean-forward="false" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
                 <folding>
-                  <marker date="1508999043287" expanded="true" signature="859:1180" ph="{...}" />
-                  <marker date="1508999043287" expanded="true" signature="1205:1241" ph="{...}" />
+                  <marker date="1508999496367" expanded="true" signature="859:1180" ph="{...}" />
+                  <marker date="1508999496367" expanded="true" signature="1205:1241" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -558,12 +557,12 @@
       <workItem from="1507520362272" duration="649000" />
       <workItem from="1507599775981" duration="1034000" />
       <workItem from="1508743799348" duration="2002000" />
-      <workItem from="1508978621536" duration="16338000" />
+      <workItem from="1508978621536" duration="16609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81381000" />
+    <option name="totallyTimeSpent" value="81652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -1080,11 +1079,11 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="282">
-            <caret line="180" column="8" lean-forward="true" selection-start-line="180" selection-start-column="8" selection-end-line="180" selection-end-column="8" />
+          <first_editor relative-caret-position="377">
+            <caret line="154" column="37" lean-forward="false" selection-start-line="154" selection-start-column="37" selection-end-line="154" selection-end-column="37" />
             <folding>
-              <marker date="1508999043287" expanded="true" signature="859:1180" ph="{...}" />
-              <marker date="1508999043287" expanded="true" signature="1205:1241" ph="{...}" />
+              <marker date="1508999496367" expanded="true" signature="859:1180" ph="{...}" />
+              <marker date="1508999496367" expanded="true" signature="1205:1241" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />

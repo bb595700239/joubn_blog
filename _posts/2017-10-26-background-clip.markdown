@@ -152,7 +152,7 @@ cursor: pointer;
 
 @-webkit-keyframes loop{
      0%{background-position: -800px 0;}
-     100%{background-position: -0 0;}
+     100%{background-position: -400px 0;}
 }
 .text2{
      width: 300px;
