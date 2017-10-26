@@ -151,11 +151,11 @@ cursor: pointer;
 }
 
 @-webkit-keyframes loop{
-     0%{background-position: -600px 0;}
+     0%{background-position: -800px 0;}
      100%{background-position: -0 0;}
 }
 .text2{
-     width: 300x;
+     width: 300px;
      margin: 0 auto;
      height: 78px;
      line-height: 78px;
@@ -167,7 +167,7 @@ cursor: pointer;
      background-color: red;
      background-image:url(/img/in-post/background-clip/bg.jpg);
      background-repeat:no-repeat;
-     background-position: -300px 0;
+     background-position: -800px 0;
      -webkit-animation:loop 10s linear infinite;
 }
   
