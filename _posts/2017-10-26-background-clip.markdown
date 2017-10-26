@@ -136,6 +136,9 @@ body{
     -webkit-background-clip: text;
     color: transparent;
     font-family: 'MyCustomFont';
+    font-size: 35px;
+    text-align: center;
+    line-height: 72px;
 }
 .list-name img{
     width: 322px;
@@ -183,7 +186,7 @@ body{
 </div>
 <script>
 $('.list-name').click(function(){
-    $(this).text('试试就试试')
+    $(this).html('<img src="/img/in-post/background-clip/listbg.png">试试就试试')
 })
 </script>
 
