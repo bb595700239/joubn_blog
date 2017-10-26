@@ -42,7 +42,7 @@ UI：对了，效果要跟我一样，而且文字是不固定的
 下载好的字体一般是`.ttf`格式文件，但是并不是所有的浏览器都支持这种字体。这时就要转换字体，地址：[font2web](http://www.font2web.com/)。你可能会发现很多转换字体的地址但很少有能转换的，而且有些能转换又提示文件过大。 
 
 这个时候我们要做的操作就是删文字，没错就是删文字。用`FontCreator`打开字体文件
-![](/img/in-post/background-clip/font.png)
+![](/img/in-post/background-clip/font.jpg)
 大概就是这样，然后删除你觉得用不到的文字吧。删除好再转换就OK啦！
 
 现在就开始引入文字了css里加上以下代码
@@ -100,21 +100,22 @@ body{
     border: 20px dotted #000;
     padding: 40px;
     display: inline-block;
-    width: 214px;
-    height: 380px;
+    width: 414px;
+    height: 491px;
     background: url(http://images.cnblogs.com/cnblogs_com/lvdabao/507840/o_Img347406026.jpg);
     font-size: 180px;
     line-height: 180px;
     font-weight: 900;
     color: transparent;
     font-family: '微软雅黑';
+    margin-bottom:20px;
 }
 
 .list-name{
     width: 322px;
     height: 85px;
     margin:0 auto;
-    background: url(../img/in-post/background-clip/goldlala.png) no-repeat;
+    background: url(/img/in-post/background-clip/goldlala.png) no-repeat;
     background-size: 100% 100%;
        -webkit-background-clip: text;
     color: transparent;
@@ -124,7 +125,7 @@ body{
 .list-name img{
     width: 322px;
       height: 85px;
-     position: relative;
+     position: absolute;
     display: inline-block;
     z-index: -1
 }
@@ -139,11 +140,11 @@ body{
 
 @font-face {  
  font-family: 'MyCustomFont';  
- src: url('../img/in-post/background-clip/lingxin.eot');
-  src: url('../img/in-post/background-clip/lingxin.eot?#iefix') format('embedded-opentype'),
-       url('../img/in-post/background-clip/lingxin.woff') format('woff'),
-       url('../img/in-post/background-clip/lingxin.svg') format('svg'),
-   url('../img/in-post/background-clip/lingxin.ttf') format('truetype');
+ src: url('/img/in-post/background-clip/lingxin.eot');
+  src: url('/img/in-post/background-clip/lingxin.eot?#iefix') format('embedded-opentype'),
+       url('/img/in-post/background-clip/lingxin.woff') format('woff'),
+       url('/img/in-post/background-clip/lingxin.svg') format('svg'),
+   url('/img/in-post/background-clip/lingxin.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }  
@@ -156,6 +157,6 @@ body{
 
 ##静态效果
 <div class="list-name">
-    <img src="../img/in-post/background-clip/listbg.png">
+    <img src="/img/in-post/background-clip/listbg.png">
     <p class="tit">我就切了你</p>
 </div>

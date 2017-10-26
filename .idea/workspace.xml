@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4367e5-fa23-442f-84c4-eee771cd5375" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/in-post/background-clip/font.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/in-post/background-clip/goldlala.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/in-post/background-clip/lingxin.TTF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/in-post/background-clip/lingxin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/in-post/background-clip/lingxin.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/in-post/background-clip/lingxin.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/in-post/background-clip/lingxin.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" afterPath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,17 +25,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post-c-u-ali-team.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/in-post/post-c-u-ali-team.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="post-c-u-ali-memo.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/in-post/post-c-u-ali-memo.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="2017-09-29-canvas-tutorial.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-09-29-canvas-tutorial.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="456">
+                <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+                <folding>
+                  <marker date="1506674410405" expanded="true" signature="343:4151" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="425:4147" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="850:886" ph="//..." />
+                  <marker date="1506674410405" expanded="true" signature="2461:2905" ph="{&quot;color&quot;: 'blue'...}" />
+                  <marker date="1506674410405" expanded="true" signature="2618:2899" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="2929:3039" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="3065:3662" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="3229:3284" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="3385:3422" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="3474:3511" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="3560:3597" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="3716:3827" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="3883:3998" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="3905:3992" ph="{...}" />
+                  <marker date="1506674410405" expanded="true" signature="4052:4122" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
           </provider>
         </entry>
       </file>
@@ -64,11 +72,11 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="586">
-                <caret line="156" column="6" lean-forward="true" selection-start-line="156" selection-start-column="6" selection-end-line="156" selection-end-column="6" />
+              <first_editor relative-caret-position="624">
+                <caret line="159" column="14" lean-forward="false" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
                 <folding>
-                  <marker date="1508993732799" expanded="true" signature="859:1180" ph="{...}" />
-                  <marker date="1508993732799" expanded="true" signature="1205:1241" ph="{...}" />
+                  <marker date="1508994317833" expanded="true" signature="859:1180" ph="{...}" />
+                  <marker date="1508994317833" expanded="true" signature="1205:1241" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -544,12 +552,12 @@
       <workItem from="1507520362272" duration="649000" />
       <workItem from="1507599775981" duration="1034000" />
       <workItem from="1508743799348" duration="2002000" />
-      <workItem from="1508978621536" duration="11879000" />
+      <workItem from="1508978621536" duration="12453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76922000" />
+    <option name="totallyTimeSpent" value="77496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -842,33 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-29-canvas-tutorial.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
-            <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-            <folding>
-              <marker date="1506674410405" expanded="true" signature="343:4151" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="425:4147" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="850:886" ph="//..." />
-              <marker date="1506674410405" expanded="true" signature="2461:2905" ph="{&quot;color&quot;: 'blue'...}" />
-              <marker date="1506674410405" expanded="true" signature="2618:2899" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="2929:3039" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="3065:3662" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="3229:3284" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="3385:3422" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="3474:3511" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="3560:3597" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="3716:3827" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="3883:3998" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="3905:3992" ph="{...}" />
-              <marker date="1506674410405" expanded="true" signature="4052:4122" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-vue-component-recursion.markdown">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="589">
@@ -986,25 +967,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="56" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-114">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1506655184574" expanded="true" signature="3819:4500" ph="{...}" />
-              <marker date="1506655184574" expanded="true" signature="3901:4498" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/in-post/post-metro-ui.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1035,11 +997,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/in-post/background-clip/font.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/in-post/vue-component-recursion/end.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1060,14 +1017,68 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-svg-path-arc.markdown">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="56" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4047">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1506655184574" expanded="true" signature="507:525" ph="..." />
+              <marker date="1506655184574" expanded="true" signature="3159:3473" ph="..." />
+              <marker date="1506655184574" expanded="true" signature="3517:3779" ph="{...}" />
+              <marker date="1506655184574" expanded="true" signature="3819:4500" ph="{...}" />
+              <marker date="1506655184574" expanded="true" signature="3901:4498" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/in-post/background-clip/font.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-29-canvas-tutorial.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="456">
+            <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <folding>
+              <marker date="1506674410405" expanded="true" signature="343:4151" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="425:4147" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="850:886" ph="//..." />
+              <marker date="1506674410405" expanded="true" signature="2461:2905" ph="{&quot;color&quot;: 'blue'...}" />
+              <marker date="1506674410405" expanded="true" signature="2618:2899" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="2929:3039" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="3065:3662" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="3229:3284" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="3385:3422" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="3474:3511" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="3560:3597" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="3716:3827" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="3883:3998" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="3905:3992" ph="{...}" />
+              <marker date="1506674410405" expanded="true" signature="4052:4122" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="586">
-            <caret line="156" column="6" lean-forward="true" selection-start-line="156" selection-start-column="6" selection-end-line="156" selection-end-column="6" />
+          <first_editor relative-caret-position="624">
+            <caret line="159" column="14" lean-forward="false" selection-start-line="159" selection-start-column="14" selection-end-line="159" selection-end-column="14" />
             <folding>
-              <marker date="1508993732799" expanded="true" signature="859:1180" ph="{...}" />
-              <marker date="1508993732799" expanded="true" signature="1205:1241" ph="{...}" />
+              <marker date="1508994317833" expanded="true" signature="859:1180" ph="{...}" />
+              <marker date="1508994317833" expanded="true" signature="1205:1241" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
