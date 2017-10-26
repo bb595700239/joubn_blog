@@ -76,7 +76,7 @@ body{
 
 要做的文字蒙版效果就是用的`background-clip`属性[详细了解](https://developer.mozilla.org/zh-CN/docs/Web/CSS/background-clip)，应该更准确的说是`background-clip:text`属性值。
 下面给例子感受一下`background-clip`属性的各个值(content-box | padding-box | border-box)的作用：
-<div>
+<div class="demobox">
 <div id="demo" style="-webkit-background-clip: content-box;">美女</div>
 <div id="dctrl2"> 
 <input id="cb" type="radio" name="dctrl2" value="content-box" checked="checked"> 
@@ -105,6 +105,10 @@ body{
    url('/img/in-post/background-clip/lingxin.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+}
+.demobox{
+    width: 303px;
+    margin: 0 auto;
 }
 #demo{
     border: 20px dashed #ff5256;
