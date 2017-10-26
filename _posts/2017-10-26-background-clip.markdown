@@ -96,8 +96,18 @@ body{
     });
 </script>
 <style>
+@font-face {  
+ font-family: 'MyCustomFont';  
+ src: url('/img/in-post/background-clip/lingxin.eot');
+  src: url('/img/in-post/background-clip/lingxin.eot?#iefix') format('embedded-opentype'),
+       url('/img/in-post/background-clip/lingxin.woff') format('woff'),
+       url('/img/in-post/background-clip/lingxin.svg') format('svg'),
+   url('/img/in-post/background-clip/lingxin.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 #demo{
-    border: 20px dotted #000;
+    border: 20px dashed #ff5256;
     padding: 40px;
     display: inline-block;
     width: 303px;
@@ -107,7 +117,7 @@ body{
     line-height: 180px;
     font-weight: 900;
     color: transparent;
-    font-family: '微软雅黑';
+    font-family: 'MyCustomFont';
     margin-bottom:20px;
 }
 
@@ -141,11 +151,12 @@ cursor: pointer;
 }
 
 @-webkit-keyframes loop{
-     0%{background-position: -800px 0;}
+     0%{background-position: -600px 0;}
      100%{background-position: -0 0;}
 }
 .text2{
-     width: 800px;
+     width: 300x;
+     margin: 0 auto;
      height: 78px;
      line-height: 78px;
      font-size: 40px;
@@ -156,19 +167,10 @@ cursor: pointer;
      background-color: red;
      background-image:url(/img/in-post/background-clip/bg.jpg);
      background-repeat:no-repeat;
-     background-position: -800px 0;
+     background-position: -300px 0;
      -webkit-animation:loop 10s linear infinite;
 }
-@font-face {  
- font-family: 'MyCustomFont';  
- src: url('/img/in-post/background-clip/lingxin.eot');
-  src: url('/img/in-post/background-clip/lingxin.eot?#iefix') format('embedded-opentype'),
-       url('/img/in-post/background-clip/lingxin.woff') format('woff'),
-       url('/img/in-post/background-clip/lingxin.svg') format('svg'),
-   url('/img/in-post/background-clip/lingxin.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}  
+  
 </style>
 </div>
 
@@ -183,12 +185,16 @@ cursor: pointer;
 </div>
 <script>
 $('.list-name').click(function(){
-$('.list-name').css({'background':'url(./assets/images/goldlala.png)','-webkit-background-clip':'text'}).find('.tit').html('试试就试试')
+$('.list-name').css({'background':'url(/img/in-post/background-clip/goldlala.png)','-webkit-background-clip':'text'}).find('.tit').html('试试就试试')
 })
 </script>
 
 ### 拓展
 
+现在我们可以轻松做一个歌词效果
+
 <div class="text2">天空灰的像哭过</div>
+
+
 
 
