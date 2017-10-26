@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4367e5-fa23-442f-84c4-eee771cd5375" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/in-post/background-clip/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/meinv.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" afterPath="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -62,15 +63,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-10-26-background-clip.markdown" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2017-10-26-background-clip.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1384">
-                <caret line="137" column="23" lean-forward="false" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
+              <first_editor relative-caret-position="1080">
+                <caret line="191" column="26" lean-forward="false" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="26" />
                 <folding>
-                  <marker date="1508996180215" expanded="true" signature="859:1180" ph="{...}" />
-                  <marker date="1508996180215" expanded="true" signature="1205:1241" ph="{...}" />
+                  <marker date="1508998005881" expanded="true" signature="859:1180" ph="{...}" />
+                  <marker date="1508998005881" expanded="true" signature="1205:1241" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -78,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
@@ -187,9 +188,9 @@
         <option value="$PROJECT_DIR$/portfolio/index.html" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
       </list>
     </option>
   </component>
@@ -445,9 +446,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\vue pro\joubn_blog\img\in-post\background-clip" />
+      <recent name="G:\vue pro\joubn_blog\img" />
       <recent name="G:\vue pro\joubn_blog\_posts" />
       <recent name="G:\vue pro\joubn_blog\img\in-post\vue-component-recursion" />
-      <recent name="G:\vue pro\joubn_blog\img" />
       <recent name="G:\vue pro\joubn_blog\portfolio\images" />
     </key>
   </component>
@@ -566,12 +567,12 @@
       <workItem from="1507520362272" duration="649000" />
       <workItem from="1507599775981" duration="1034000" />
       <workItem from="1508743799348" duration="2002000" />
-      <workItem from="1508978621536" duration="13401000" />
+      <workItem from="1508978621536" duration="15121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78444000" />
+    <option name="totallyTimeSpent" value="80164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1924" height="1056" extended-state="0" />
@@ -1071,20 +1072,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1384">
-            <caret line="137" column="23" lean-forward="false" selection-start-line="137" selection-start-column="23" selection-end-line="137" selection-end-column="23" />
-            <folding>
-              <marker date="1508996180215" expanded="true" signature="859:1180" ph="{...}" />
-              <marker date="1508996180215" expanded="true" signature="1205:1241" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1098,6 +1085,20 @@
         <state relative-caret-position="532">
           <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1080">
+            <caret line="191" column="26" lean-forward="false" selection-start-line="191" selection-start-column="26" selection-end-line="191" selection-end-column="26" />
+            <folding>
+              <marker date="1508998005881" expanded="true" signature="859:1180" ph="{...}" />
+              <marker date="1508998005881" expanded="true" signature="1205:1241" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

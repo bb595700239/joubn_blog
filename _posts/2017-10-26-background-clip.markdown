@@ -100,9 +100,9 @@ body{
     border: 20px dotted #000;
     padding: 40px;
     display: inline-block;
-    width: 414px;
-    height: 491px;
-    background: url(http://images.cnblogs.com/cnblogs_com/lvdabao/507840/o_Img347406026.jpg);
+    width: 303px;
+    height: 485px;
+    background: url(/img/meinv.jpg);
     font-size: 180px;
     line-height: 180px;
     font-weight: 900;
@@ -113,7 +113,7 @@ body{
 
 .list-name{
     width: 322px;
-    height: 85px;
+    height: 61px;
     margin:0 auto;
     background: url(/img/in-post/background-clip/goldlala.png) no-repeat;
     background-size: 100% 100%;
@@ -124,7 +124,7 @@ body{
 }
 .list-name img{
     width: 322px;
-      height: 85px;
+      height: 61px;
      position: absolute;
     display: inline-block;
     z-index: -1;
@@ -132,13 +132,34 @@ body{
 }
 .list-name .tit{
      width: 322px;
-     height: 85px;
+     height: 61px;
     font-size: 35px;
     text-align: center;
-    line-height: 119px;
+     line-height: 72px;
 
 }
-
+.list-name2{
+    cursor: pointer;
+}
+@-webkit-keyframes loop{
+     0%{background-position: -800px 0;}
+     100%{background-position: -0 0;}
+}
+.text2{
+     width: 800px;
+     height: 78px;
+     line-height: 78px;
+     font-size: 40px;
+     font-family: 'MyCustomFont';
+     font-weight: bold;
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     background-color: red;
+     background-image:url(/img/in-post/background-clip/bg.jpg);
+     background-repeat:no-repeat;
+     background-position: -800px 0;
+     -webkit-animation:loop 10s linear infinite;
+}
 @font-face {  
  font-family: 'MyCustomFont';  
  src: url('/img/in-post/background-clip/lingxin.eot');
@@ -156,8 +177,18 @@ body{
 
 这里要注意的事设置`background-clip:text`的同时要把字体颜色设置为透明`color: transparent`这样底下的图片才能显示出来。（跟PS图层蒙板很像，蒙板越黑显示的图片越清楚。因为PS里黑色就是代表没有颜色）
 
-### 静态效果
+### 最终效果
 <div class="list-name">
     <img src="/img/in-post/background-clip/listbg.png">
-    <p class="tit">我就切了你</p>
+    <p class="tit">点我试试</p>
 </div>
+<script>
+$('.list-name').click(function(){
+$('.list-name').css({'background':'url(./assets/images/goldlala.png)','-webkit-background-clip':'text'}).find('.tit').html('试试就试试')
+})
+
+### 拓展
+
+<div class="text2">天空灰的像哭过</div>
+
+</script>
