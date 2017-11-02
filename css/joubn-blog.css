@@ -760,9 +760,6 @@ pre code {
   font-weight: 300;
   font-size: 18px;
 }
-.intro-header .post-heading .meta .PV{
-  margin-left: 10px;
-}
 .intro-header .post-heading .meta a {
   color: white;
 }
@@ -1262,3 +1259,4 @@ img::-moz-selection {
 .page-fullscreen footer .copyright a:hover {
   color: #ddd;
 }
+.PV{margin-left: 20px;}
