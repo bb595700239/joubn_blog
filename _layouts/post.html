@@ -40,7 +40,7 @@ layout: default
                     {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% comment %} endif {% endcomment %}
-                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }} PV：<span data-hk-page="current"> - </span></span>
                 </div>
             </div>
         </div>
@@ -158,6 +158,9 @@ layout: default
     </div>
 </article>
 
+<!-- 浏览量 start -->
+<script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-0.1.1.js"></script>
+<!-- 浏览量 end -->
 
 {% if site.netease_comment %}
 <!-- 网易云跟帖JS代码 start -->
