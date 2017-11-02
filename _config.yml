@@ -85,11 +85,11 @@ service-worker: true
 
 
 # Friends
-#friends: [
-    #{
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
+friends: [
+    {
+         title: "海洋",
+         href: "http://hineshen.github.io/"
+     },{
 
-    #}
-#]
+    }
+]
