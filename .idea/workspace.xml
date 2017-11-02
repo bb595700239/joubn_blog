@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4367e5-fa23-442f-84c4-eee771cd5375" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/joubn-blog.css" afterPath="$PROJECT_DIR$/css/joubn-blog.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/joubn-blog.min.css" afterPath="$PROJECT_DIR$/css/joubn-blog.min.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,8 +42,8 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3340">
-              <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+            <state relative-caret-position="270">
+              <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,8 +52,8 @@
       <file leaf-file-name="joubn-blog.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/joubn-blog.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="0" column="19304" lean-forward="true" selection-start-line="0" selection-start-column="19304" selection-end-line="0" selection-end-column="19304" />
+            <state relative-caret-position="649">
+              <caret line="0" column="22258" lean-forward="false" selection-start-line="0" selection-start-column="22258" selection-end-line="0" selection-end-column="22258" />
               <folding />
             </state>
           </provider>
@@ -68,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="joubn-blog.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="joubn-blog.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/joubn-blog.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="649">
@@ -108,33 +109,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="footer.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-              <folding>
-                <marker date="1509603510874" expanded="true" signature="4475:4736" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="4752:5222" ph="..." />
-                <marker date="1509603510874" expanded="true" signature="5230:5495" ph="..." />
-                <marker date="1509603510874" expanded="true" signature="5536:5936" ph="..." />
-                <marker date="1509603510874" expanded="true" signature="5615:5927" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="5698:5920" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="5737:5867" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="5967:6166" ph="..." />
-                <marker date="1509603510874" expanded="true" signature="6058:6156" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="6229:6764" ph="..." />
-                <marker date="1509603510874" expanded="true" signature="6390:6615" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="6835:7182" ph="..." />
-                <marker date="1509603510874" expanded="true" signature="6967:7169" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="7273:8531" ph="..." />
-                <marker date="1509603510874" expanded="true" signature="7315:7763" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="7438:7734" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="7874:7956" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="7964:8072" ph="/*...*/" />
-                <marker date="1509603510874" expanded="true" signature="8148:8520" ph="{...}" />
-                <marker date="1509603510874" expanded="true" signature="8188:8512" ph="{&quot;currentClass&quot;: &quot;active&quot;...}" />
-              </folding>
+            <state relative-caret-position="273">
+              <caret line="97" column="16" lean-forward="false" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -200,11 +180,11 @@
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_posts/2017-10-26-background-clip.markdown" />
         <option value="$PROJECT_DIR$/_posts/2017-11-2-javaScript-deepCopy.markdown" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/css/joubn-blog.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/joubn-blog.css" />
+        <option value="$PROJECT_DIR$/css/joubn-blog.min.css" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
       </list>
     </option>
   </component>
@@ -529,12 +509,12 @@
       <workItem from="1508743799348" duration="2002000" />
       <workItem from="1508978621536" duration="19723000" />
       <workItem from="1509417778498" duration="776000" />
-      <workItem from="1509594968073" duration="5813000" />
+      <workItem from="1509594968073" duration="6036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91355000" />
+    <option name="totallyTimeSpent" value="91578000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1038,47 +1018,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-          <folding>
-            <marker date="1509603510874" expanded="true" signature="4475:4736" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="4752:5222" ph="..." />
-            <marker date="1509603510874" expanded="true" signature="5230:5495" ph="..." />
-            <marker date="1509603510874" expanded="true" signature="5536:5936" ph="..." />
-            <marker date="1509603510874" expanded="true" signature="5615:5927" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="5698:5920" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="5737:5867" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="5967:6166" ph="..." />
-            <marker date="1509603510874" expanded="true" signature="6058:6156" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="6229:6764" ph="..." />
-            <marker date="1509603510874" expanded="true" signature="6390:6615" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="6835:7182" ph="..." />
-            <marker date="1509603510874" expanded="true" signature="6967:7169" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="7273:8531" ph="..." />
-            <marker date="1509603510874" expanded="true" signature="7315:7763" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="7438:7734" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="7874:7956" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="7964:8072" ph="/*...*/" />
-            <marker date="1509603510874" expanded="true" signature="8148:8520" ph="{...}" />
-            <marker date="1509603510874" expanded="true" signature="8188:8512" ph="{&quot;currentClass&quot;: &quot;active&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-475">
           <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/joubn-blog.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="0" column="19304" lean-forward="true" selection-start-line="0" selection-start-column="19304" selection-end-line="0" selection-end-column="19304" />
           <folding />
         </state>
       </provider>
@@ -1091,10 +1034,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/css/joubn-blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3340">
-          <caret line="35" column="45" lean-forward="true" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        <state relative-caret-position="649">
+          <caret line="1261" column="19" lean-forward="false" selection-start-line="1261" selection-start-column="19" selection-end-line="1261" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/joubn-blog.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="0" column="22258" lean-forward="false" selection-start-line="0" selection-start-column="22258" selection-end-line="0" selection-end-column="22258" />
           <folding />
         </state>
       </provider>
@@ -1107,10 +1058,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/joubn-blog.css">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="1261" column="19" lean-forward="false" selection-start-line="1261" selection-start-column="19" selection-end-line="1261" selection-end-column="19" />
+        <state relative-caret-position="270">
+          <caret line="159" column="0" lean-forward="true" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="97" column="16" lean-forward="false" selection-start-line="97" selection-start-column="16" selection-end-line="97" selection-end-column="16" />
           <folding />
         </state>
       </provider>
