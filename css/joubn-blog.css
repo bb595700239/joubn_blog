@@ -760,6 +760,9 @@ pre code {
   font-weight: 300;
   font-size: 18px;
 }
+.intro-header .post-heading .meta .PV{
+  margin-left: 10px;
+}
 .intro-header .post-heading .meta a {
   color: white;
 }
